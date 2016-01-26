@@ -1,0 +1,14 @@
+layout_spectrum: 0.8611053
+typography_spectrum: 0.7076932
+color:
+  saturation: 0.9537249
+  lightness: 0.7477381
+  brandStrength: 0.421422
+  rhythmicContrast: 0.2618294
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 3Design
