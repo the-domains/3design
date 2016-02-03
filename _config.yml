@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.3530466
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 0
+  rhythmicContrast: 0
   brandColors:
     - '#0C1F06'
     - '#B58F6D'
     - '#6F99E0'
     - '#F20C27'
     - '#FFFFFB'
-  rhythmicContrast: 0
+  lightness: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 1
+typography_spectrum: 0.3530466
 name: 3Design
